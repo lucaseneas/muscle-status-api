@@ -1,3 +1,9 @@
 docker run --name mysql -e MYSQL_ROOT_PASSWORD=root -p 3306:3306 -d mysql
 
+npm install express
+npm instal mysql2
+npm instal nodemon -D
+
+
+
 npm install dotenv
